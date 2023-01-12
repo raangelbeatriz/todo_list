@@ -1,9 +1,9 @@
 # To-Do List
  
 ## ✨ About
-To-Do is an app where the user can create, manage and delete tasks. This project was made using a modular architecture, Provider as a state manager, and Firebase Auth. My goal was to learn more about modular architecture and topics such as Dependency Injection and the use of Service Layers.
+To-Do List is an app where the user can create, manage and delete tasks. This project was made using a modular architecture, Provider as a state manager, and Firebase Auth. My goal was to learn more about modular architecture and topics such as Dependency Injection and the use of Service Layers.
 
-## Demo
+## ⚡ Demo
 ![Screen_Recording_20230112_120647_AdobeExpress (1)](https://user-images.githubusercontent.com/50742224/212125591-d1ba3cdf-a6a0-4d83-9444-69b4c7d5993e.gif)
 
 
